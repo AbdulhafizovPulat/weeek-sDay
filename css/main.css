@@ -1,0 +1,17 @@
+.form .form-label {
+  justify-content: space-between;
+}
+.form .form-control {
+  border: 1px double rgb(195, 70, 2);
+}
+
+.card {
+  margin-top: 20px;
+  color: darkgreen !important;
+  border: none;
+}
+
+.danger {
+  margin-top: 20px;
+  color: tomato;
+}/*# sourceMappingURL=main.css.map */
